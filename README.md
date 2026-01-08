@@ -63,6 +63,48 @@ El juego que se realizo fue un tiro al blanco, en donde se tiene un marcador par
 |---|---|---|
 | ![1](https://github.com/user-attachments/assets/93a6597d-c718-4f0c-b072-7773f6b8f8d6) | ![2](https://github.com/user-attachments/assets/e502eb10-9c6d-4fa3-a015-b67bf42dc09c) | ![3](https://github.com/user-attachments/assets/01bfd00e-d43b-4df3-a2a3-139b7d76a51d)
 
+
+
 ### Link al repositorio: https://github.com/JaredFs123456/Multijugador.git
 ---
 
+---
+9
+# 💣 Buscaminas Multijugador - Android
+
+Una implementación moderna del clásico juego Buscaminas para **dos jugadores**, desarrollada con Jetpack Compose y siguiendo la arquitectura MVVM. Ahora con **soporte Bluetooth** para jugar en dos dispositivos diferentes.
+
+## Modos de Juego
+- ✅ **Modo Local**: Dos jugadores en el mismo dispositivo (original)
+- ✅ **Modo Bluetooth** ⭐ NUEVO: Juego multidispositivo mediante conexión Bluetooth
+  - Conexión servidor/cliente
+  - Sincronización en tiempo real
+  - Validación de turnos por dispositivo
+
+### Screenshots
+#### Buscaminas Main
+![Buscaminas Main](https://github.com/GarciaGarciaAramJesua/Android/blob/main/screenshotsGGAJ/Buscaminas/Buscaminas7.jpeg)
+
+#### Vista de Partida
+![Vista de Partida](https://github.com/GarciaGarciaAramJesua/Android/blob/main/screenshotsGGAJ/Buscaminas/Buscaminas1.jpeg)
+
+#### Vista del Mapa
+![Vista del Mapa](https://github.com/GarciaGarciaAramJesua/Android/blob/main/screenshotsGGAJ/Buscaminas/Buscaminas2.jpeg)
+
+#### Estadísticas
+![Estadísticas](https://github.com/GarciaGarciaAramJesua/Android/blob/main/screenshotsGGAJ/Buscaminas/Buscaminas3.jpeg)
+
+#### Estadísticas P2
+![Estadísticas P2](https://github.com/GarciaGarciaAramJesua/Android/blob/main/screenshotsGGAJ/Buscaminas/Buscaminas4.jpeg)
+
+#### Vista de Partidas Guardadas
+![Vista de Partidas Guardadas](https://github.com/GarciaGarciaAramJesua/Android/blob/main/screenshotsGGAJ/Buscaminas/Buscaminas5.jpeg)
+
+#### Vista de Partidas Bluetooth
+![Vista de Partidas Bluetooth](https://github.com/GarciaGarciaAramJesua/Android/blob/main/screenshotsGGAJ/Buscaminas/Buscaminas6.jpeg)
+
+## Repositorio dónde encontrar dicho proyecto
+
+**Aram García García**
+- GitHub: [@araakgg](https://github.com/GarciaGarciaAramJesua/Android)
+---
