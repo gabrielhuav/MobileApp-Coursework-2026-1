@@ -320,3 +320,31 @@ Aplicación con historial de rastreo, uso de OpenStreetMaps y comparación de ub
 **Repositorio:** [https://github.com/gael-marquez/Examen_Moviles]
 
 ---
+
+
+# Explorador de Archivos Android (Gestor de Archivos)
+Aplicación Android desarrollada en Kotlin (Android Studio) para exploración y gestión de archivos: permite navegar por almacenamiento interno/externo y realizar acciones como crear carpetas, eliminar, copiar, mover, renombrar y abrir archivos. Incluye UI moderna con Material Design 3, tema claro/oscuro y paletas Guinda IPN / Azul ESCOM.
+
+# CAPTURAS DE PANTALLA
+![explorador3](https://github.com/user-attachments/assets/14f39f28-8a89-4cc7-a06e-944baecd2960)
+![explorador4](https://github.com/user-attachments/assets/07833bde-68c2-439b-a2b8-d0c0fe5da5a3)
+![explorador1](https://github.com/user-attachments/assets/4811e457-995d-48f4-82a1-b374fab71c4e)
+![explorador2](https://github.com/user-attachments/assets/0fa78a21-718d-4e5d-addb-7590c9cac8f3)
+
+# ENLACE AL REPOSITORIO
+https://github.com/DiFlyy/Practica_3
+
+# LINK DEL REPOSITORIO
+Lenguaje: Kotlin
+IDE: Android Studio
+Plataforma: Android
+Interfaz de usuario: Material Design 3
+Gestión de archivos: API de almacenamiento de Android (File / Storage Access)
+Arquitectura: Componentes nativos de Android (Activities / RecyclerView)
+Temas y estilos:
+Modo claro y oscuro
+Paletas de color Guinda IPN y Azul ESCOM
+Control de versiones: Git y GitHub
+Este conjunto de tecnologías permitió desarrollar una aplicación móvil funcional, moderna y adaptable, enfocada en la exploración y administración eficiente de archivos dentro del sistema Android.
+
+---
