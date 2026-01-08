@@ -211,59 +211,30 @@ ShareCrypt is an Android application for secure local sharing of files and short
 
 **Repositorio:** https://github.com/IrminDev/ShareCrypt
 
+## 🔐 Proyecto: Conecta4
+
+La aplicación es acerca del juego de Conecta4, el cuál el primer jugador en alinear 4 fichas gana, esta implementado para jugar local, contra la inteligencia artificial y también mediante bluetooth.
+
+### Tecnologías
+- **Kotlin** - Lenguaje de programación
+- **Android SDK** - Plataforma de desarrollo
+- **Bluetooth** - Comunicación local
+
+### Capturas de Pantalla
+| | | | |
+|---|---|---|---|
+| ![Conecta1](https://github.com/user-attachments/assets/ce352fb1-e66f-47bf-8a6a-fc515e549a92)
+ | ![Conecta2](https://github.com/user-attachments/assets/6a2675c1-7715-40fb-8e06-4f2d394aa822)
+ | ![Conecta3](https://github.com/user-attachments/assets/a0734217-4bb0-4388-80ab-06722298ce7b)
+| ![Conecta4](https://github.com/user-attachments/assets/1539f225-3a6e-453e-8f2b-115d3a2a5d38)
+|
+
+
+**Repositorio:** https://github.com/RuloMtz93/Raul_Martinez_Moviles_7CV2-2025.git
+
 ---
 
 ## 📝 Licencia
 
 Proyectos académicos desarrollados para el curso de Desarrollo de Aplicaciones Móviles Nativas 2026-1.
 
-
----
-
-# 📍 Rastreador de Ubicación IPN - Examen Final
-
-Aplicación nativa en Android desarrollada para la unidad de aprendizaje **Desarrollo de Aplicaciones Móviles Nativas** de la **Escuela Superior de Cómputo (ESCOM - IPN)**.
-
-La aplicación permite el rastreo de la ubicación del usuario en tiempo real, persistiendo los datos localmente y dibujando la ruta en un mapa, con soporte robusto para ejecución en segundo plano.
-
-### Características Principales
-- 🗺️ **Rastreo GPS en Tiempo Real:** Visualización precisa con *OpenStreetMap* (osmdroid).
-- 🔄 **Servicio en Segundo Plano:** Foreground Service con notificación persistente para rastreo continuo.
-- ⏱️ **Intervalos Configurables:** Actualización cada 10s, 60s o 5 minutos.
-- 💾 **Persistencia de Datos:** Historial guardado localmente en JSON.
-- 🎨 **Temas Institucionales:** Cambio dinámico entre Tema Guinda (IPN) y Tema Azul (ESCOM).
-
-### 📸 Capturas de Pantalla
-
-| Intervalo 10s | Modo Obscuro | Modo Azul |
-|:---:|:---:|:---:|
-| <img src="https://github.com/Alejandro261102/ExamenMoviles/Imagenes/Intervalo_10s.jpeg?raw=true" width="250"/> | <img src="https://github.com/Alejandro261102/ExamenMoviles/Imagenes/Modo_obscuro_2.jpegg?raw=true" width="250"/> | <img src="https://github.com/Alejandro261102/ExamenMoviles/Imagenes/Modo_azul.jpeg?raw=true" width="250"/> |
-
-| Historial | Ruta en Mapa |
-|:---:|:---:|:---:|
-| <img src="https://github.com/Alejandro261102/ExamenMoviles/Imagenes/Historial.png?raw=true" width="250"/> | <img src="https://github.com/Alejandro261102/ExamenMoviles/Imagenes//ruta.jpeg?raw=true" width="250"/> |
-### 📋 Requerimientos Cumplidos (Examen)
-
-Este proyecto cumple con la totalidad de los requerimientos solicitados en la evaluación final 2026-1:
-
-1.  **Rastreo de Ubicación:** Implementación de `FusedLocationProviderClient` con intervalos seleccionables.
-2.  **Visualización en Mapa:** Integración de **osmdroid** para dibujar `Polyline` (ruta roja) y marcadores en tiempo real.
-3.  **Almacenamiento:** Serialización de objetos con **Gson** y guardado en archivo local `history.json`.
-4.  **Interfaz UI/UX:** Temas dinámicos (`#6C1D45` y `#00679E`) y manejo de `BroadcastReceiver` para actualizaciones de UI.
-
-### 🛠️ Tecnologías y Librerías
-
-* **Lenguaje:** Kotlin
-* **Mapas:** `org.osmdroid:osmdroid-android:6.1.16`
-* **Ubicación:** `com.google.android.gms:play-services-location:21.0.1`
-* **Datos:** `com.google.code.gson:gson:2.10.1`
-* **Arquitectura:** Foreground Service, BroadcastReceiver, SharedPreferences.
-
-
-### 🚀 Instalación
-
-1. **Clonar el repositorio:**
-   ```bash
-   git clone [https://github.com/Alejandro261102/ExamenMoviles.git](https://github.com/Alejandro261102/ExamenMoviles.git)
-
----
