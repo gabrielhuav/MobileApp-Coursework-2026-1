@@ -270,20 +270,44 @@ Este proyecto cumple con la totalidad de los requerimientos solicitados en la ev
 
 ---
 
-## 📷 Aplicación interactiva de JoJo's
+# 📍 Rastreador de Ubicación IPN - Examen Final
 
-Aplicación interactiva para donde se muestra información relevante de los personajes principales de JoJo's
+Aplicación nativa en Android desarrollada para la unidad de aprendizaje **Desarrollo de Aplicaciones Móviles Nativas** de la **Escuela Superior de Cómputo (ESCOM - IPN)**.
 
-### Características
-- 📷 Imagenes e información de los protagonistas de cada parte de JoJo's
-- 🎙️ Información de los poderes de cada personaje con gráfica de sus estadísticas
-- 🎨 Interfaz moderna con temas personalizables y modo oscuro
+La aplicación permite el rastreo de la ubicación del usuario en tiempo real, persistiendo los datos localmente y dibujando la ruta en un mapa, con soporte robusto para ejecución en segundo plano.
+
+### Características Principales
+- 🗺️ **Rastreo GPS en Tiempo Real:** Visualización precisa con *OpenStreetMap* (osmdroid).
+- 🔄 **Servicio en Segundo Plano:** Foreground Service con notificación persistente para rastreo continuo.
+- ⏱️ **Intervalos Configurables:** Actualización cada 10s, 60s o 5 minutos.
+- 💾 **Persistencia de Datos:** Historial guardado localmente en JSON.
+- 🎨 **Temas Institucionales:** Cambio dinámico entre Tema Guinda (IPN) y Tema Azul (ESCOM).
+
+### 📸 Capturas de Pantalla
+
+| Intervalo 10s | Modo Obscuro | Modo Azul |
+|:---:|:---:|:---:|
+| <img src="https://github.com/Alejandro261102/ExamenMoviles/blob/main/Imagenes/Intervalo_10s.jpeg?raw=true" width="250"/> | <img src="https://github.com/Alejandro261102/ExamenMoviles/blob/main/Imagenes/Modo_obscuro.jpeg?raw=true" width="250"/> | <img src="https://github.com/Alejandro261102/ExamenMoviles/blob/main/Imagenes/Modo_azul.jpeg?raw=true" width="250"/> |
+
+| Historial | Ruta en Mapa | |
+|:---:|:---:|:---:|
+| <img src="https://github.com/Alejandro261102/ExamenMoviles/blob/main/Imagenes/Historial.jpeg?raw=true" width="250"/> | <img src="https://github.com/Alejandro261102/ExamenMoviles/blob/main/Imagenes/ruta.jpeg?raw=true" width="250"/> | |
+
+
+## 🔐 Proyecto: Conecta4
+
+La aplicación es acerca del juego de Conecta4, el cuál el primer jugador en alinear 4 fichas gana, esta implementado para jugar local, contra la inteligencia artificial y también mediante bluetooth.
+
+### Tecnologías
+- **Kotlin** - Lenguaje de programación
+- **Android SDK** - Plataforma de desarrollo
+- **Bluetooth** - Comunicación local
 
 ### Capturas de Pantalla
-| | | |
-|---|---|---|
-| <img src="https://github.com/user-attachments/assets/18521dc9-afd7-4633-8e2f-f36ba6d957c3" width="250"/> | <img src="https://github.com/user-attachments/assets/886f8365-fe00-4f5c-9964-b476cec515f1" width="250"/> | <img src="https://github.com/user-attachments/assets/00336ff7-5dc0-42b4-8060-67539453a51d" width="250"/> |
+| | | | |
+|---|---|---|---|
+| ![Conecta1](https://github.com/user-attachments/assets/0b08ae78-b96b-46a4-bbde-f8882aaeda59) | ![Conecta2](https://github.com/user-attachments/assets/fe4f2ec6-978b-4110-a59f-3a9dfcfa93cf) | ![Conecta3](https://github.com/user-attachments/assets/c44fe8d6-7f86-4b64-ae00-d1b1bb74387a) | ![Conecta4](https://github.com/user-attachments/assets/5d2e7c5c-3118-46d9-b082-6ec5fd46ceba) |
 
-**Repositorio:** https://github.com/leay21/Tarea2.git
 
----
+### 🚀 Repositorio
+ https://github.com/RuloMtz93/Raul_Martinez_Moviles_7CV2-2025.git
