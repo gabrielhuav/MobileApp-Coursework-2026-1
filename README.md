@@ -27,17 +27,3 @@ Tron 3D es un juego de batalla de motos lightcycle inspirado en Tron Legacy, don
 </div>
 
 ---
-# Proyecto 2: Viaje Zoológico Inmersivo
-
-Viaje Zoológico Inmersivo es una aplicación interactiva que permite explorar ecosistemas, sus hábitats y animales representativos mediante una navegación jerárquica con contenido visual, textual y multimedia.
-
-## 🛠️ Tecnologías Principales
-
-- **Android Studio** – Entorno de desarrollo
-- **Flutter** – Framework para desarrollo de aplicaciones multiplataforma
-
-## 🖼️ Previews
-<p align="center">
-</p>
-
-
