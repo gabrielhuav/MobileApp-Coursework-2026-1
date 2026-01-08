@@ -190,6 +190,31 @@ Finalmente al momento de pasar al utlimo fragment le mostraremos un video al usu
 
 Repositotio: http://github.com/Vanwsssa/Practica2
 
+---
+
+# 🦕 Viaje Prehistórico
+
+Aplicación Android que permite explorar las eras prehistóricas, períodos geológicos y criaturas antiguas a través de una navegación jerárquica interactiva con temática de dinosaurios. Desarrollada con Kotlin, Material Design 3 y arquitectura moderna basada en Fragments.
+
+## 🛠️ Tecnologías Principales
+
+- **Kotlin** - Lenguaje de programación
+- **Material Design 3** - Interfaz moderna y accesible
+- **Fragments & ViewPager2** - Navegación jerárquica
+- **SharedPreferences** - Persistencia de datos y preferencias de tema
+
+## 📱 Capturas de Pantalla
+
+<div align="center">
+  <img src="https://github.com/PabloGranados/Moviles/raw/main/screenshots/main_light.png" alt="Pantalla Principal" width="250"/>
+  <img src="https://github.com/PabloGranados/Moviles/raw/main/screenshots/periods_light.png" alt="Períodos Geológicos" width="250"/>
+  <br><br>
+  <img src="https://github.com/PabloGranados/Moviles/raw/main/screenshots/creatures_light.png" alt="Criaturas Prehistóricas" width="250"/>
+  <img src="https://github.com/PabloGranados/Moviles/raw/main/screenshots/details.png" alt="Detalles de Criatura" width="250"/>
+</div>
+
+### 🔗 Link al repositorio: https://github.com/PabloGranados/Moviles
+
 
 
 
