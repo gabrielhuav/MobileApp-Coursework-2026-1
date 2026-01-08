@@ -171,6 +171,47 @@ Pokédex completa construida con Flutter que consume PokeAPI, con autenticación
 
 ---
 
+## ♟️ Proyecto: Chess Multiplayer
+
+Chess is a lightweight Android chess app with a clean, touch-friendly board for playing games, a searchable match history for reviewing past play, and performance statistics to track improvement.
+
+### Tecnologías
+- **Kotlin** - Lenguaje de programación
+- **Android SDK** - Plataforma de desarrollo
+- **Material Design** - Interfaz de usuario
+- **SQLite** - Base de datos local
+
+### Capturas de Pantalla
+| | | | |
+|---|---|---|---|
+| <img src="https://raw.githubusercontent.com/IrminDev/Chess-Mobile/refs/heads/master/assets/main.jpg" width="200"/> | <img src="https://raw.githubusercontent.com/IrminDev/Chess-Mobile/refs/heads/master/assets/match.jpg" width="200"/> | <img src="https://raw.githubusercontent.com/IrminDev/Chess-Mobile/refs/heads/master/assets/checkmate.jpg" width="200"/> | <img src="https://raw.githubusercontent.com/IrminDev/Chess-Mobile/refs/heads/master/assets/statistics.jpg" width="200"/> |
+| *Pantalla principal* | *Vista de partida* | *Jaque mate* | *Estadísticas* |
+
+**Repositorio:** https://github.com/IrminDev/Chess-Mobile
+
+---
+
+## 🔐 Proyecto: ShareCrypt
+
+ShareCrypt is an Android application for secure local sharing of files and short secrets using ephemeral key exchange and end-to-end verification. It provides a simple UI for sending files, receiving secrets, managing keys, and verifying transfers — designed for private, device-to-device exchanges without relying on cloud storage.
+
+### Tecnologías
+- **Kotlin** - Lenguaje de programación
+- **Android SDK** - Plataforma de desarrollo
+- **Cryptography API** - Cifrado end-to-end
+- **Bluetooth/WiFi Direct** - Comunicación local
+
+### Capturas de Pantalla
+| | | | |
+|---|---|---|---|
+| <img src="https://raw.githubusercontent.com/IrminDev/ShareCrypt/refs/heads/main/assets/menu.jpg" width="200"/> | <img src="https://raw.githubusercontent.com/IrminDev/ShareCrypt/refs/heads/main/assets/files.jpg" width="200"/> | <img src="https://raw.githubusercontent.com/IrminDev/ShareCrypt/refs/heads/main/assets/secrets.jpg" width="200"/> | <img src="https://raw.githubusercontent.com/IrminDev/ShareCrypt/refs/heads/main/assets/key_man.jpg" width="200"/> |
+| *Menú principal* | *Archivos* | *Secretos* | *Gestión de claves* |
+
+**Repositorio:** https://github.com/IrminDev/ShareCrypt
+
+---
+
 ## 📝 Licencia
 
 Proyectos académicos desarrollados para el curso de Desarrollo de Aplicaciones Móviles Nativas 2026-1.
+
