@@ -48,3 +48,21 @@ Es una aplicación nativa para Android que permite capturar fotografías y graba
 
 ### Link al repositorio: https://github.com/said153/Juego_LibGDX.git
 ---
+
+#Practica 4:  "Desarrollo de un Juego para Dos Jugadores”
+El juego que se realizo fue un tiro al blanco, en donde se tiene un marcador para cada jugador, el juego consiste en presionar la pantalla para que la flecha que muestra la dirección se detenga y señale la dirección y luego detener la barra de fuerza, dependiendo la dirección y fuerza de la canica avanzara en la pantalla, la idea es que caiga en el centro de la diana. 
+
+## Caracteristicas principales
+
+- **Señala el cambio de jugador** con el cambio de color de la canica y el color de la flecha
+- **Guarda el puntaje de los jugadores** por medio de una base de datos mediante json y txt
+- **Interfaz y gameplay sencillo** al solo utilizar el touch como control del juego lo hace sencillo de jugar
+
+#Captuas de la practica
+| | | |
+|---|---|---|
+| ![1](https://github.com/user-attachments/assets/93a6597d-c718-4f0c-b072-7773f6b8f8d6) | ![2](https://github.com/user-attachments/assets/e502eb10-9c6d-4fa3-a015-b67bf42dc09c) | ![3](https://github.com/user-attachments/assets/01bfd00e-d43b-4df3-a2a3-139b7d76a51d)
+
+### Link al repositorio: https://github.com/JaredFs123456/Multijugador.git
+---
+
