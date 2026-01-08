@@ -217,3 +217,56 @@ ShareCrypt is an Android application for secure local sharing of files and short
 
 Proyectos académicos desarrollados para el curso de Desarrollo de Aplicaciones Móviles Nativas 2026-1.
 
+
+---
+
+# 📍 Rastreador de Ubicación IPN - Examen Final
+
+Aplicación nativa en Android desarrollada para la unidad de aprendizaje **Desarrollo de Aplicaciones Móviles Nativas** de la **Escuela Superior de Cómputo (ESCOM - IPN)**.
+
+La aplicación permite el rastreo de la ubicación del usuario en tiempo real, persistiendo los datos localmente y dibujando la ruta en un mapa, con soporte robusto para ejecución en segundo plano.
+
+### Características Principales
+- 🗺️ **Rastreo GPS en Tiempo Real:** Visualización precisa con *OpenStreetMap* (osmdroid).
+- 🔄 **Servicio en Segundo Plano:** Foreground Service con notificación persistente para rastreo continuo.
+- ⏱️ **Intervalos Configurables:** Actualización cada 10s, 60s o 5 minutos.
+- 💾 **Persistencia de Datos:** Historial guardado localmente en JSON.
+- 🎨 **Temas Institucionales:** Cambio dinámico entre Tema Guinda (IPN) y Tema Azul (ESCOM).
+
+### 📸 Capturas de Pantalla
+
+### 📸 Capturas de Pantalla
+
+| Intervalo 10s | Modo Obscuro | Modo Azul |
+|:---:|:---:|:---:|
+| <img src="https://github.com/Alejandro261102/ExamenMoviles/blob/main/NOMBRE_IMAGEN_1.png?raw=true" width="250"/> | <img src="https://github.com/Alejandro261102/ExamenMoviles/blob/main/NOMBRE_IMAGEN_2.png?raw=true" width="250"/> | <img src="https://github.com/Alejandro261102/ExamenMoviles/blob/main/NOMBRE_IMAGEN_3.png?raw=true" width="250"/> |
+
+| Historial | Ruta en Mapa | Notificación |
+|:---:|:---:|:---:|
+| <img src="https://github.com/Alejandro261102/ExamenMoviles/blob/main/NOMBRE_IMAGEN_4.png?raw=true" width="250"/> | <img src="https://github.com/Alejandro261102/ExamenMoviles/blob/main/NOMBRE_IMAGEN_5.png?raw=true" width="250"/> | <img src="https://github.com/Alejandro261102/ExamenMoviles/blob/main/NOMBRE_IMAGEN_6.png?raw=true" width="250"/> |
+
+### 📋 Requerimientos Cumplidos (Examen)
+
+Este proyecto cumple con la totalidad de los requerimientos solicitados en la evaluación final 2026-1:
+
+1.  **Rastreo de Ubicación:** Implementación de `FusedLocationProviderClient` con intervalos seleccionables.
+2.  **Visualización en Mapa:** Integración de **osmdroid** para dibujar `Polyline` (ruta roja) y marcadores en tiempo real.
+3.  **Almacenamiento:** Serialización de objetos con **Gson** y guardado en archivo local `history.json`.
+4.  **Interfaz UI/UX:** Temas dinámicos (`#6C1D45` y `#00679E`) y manejo de `BroadcastReceiver` para actualizaciones de UI.
+
+### 🛠️ Tecnologías y Librerías
+
+* **Lenguaje:** Kotlin
+* **Mapas:** `org.osmdroid:osmdroid-android:6.1.16`
+* **Ubicación:** `com.google.android.gms:play-services-location:21.0.1`
+* **Datos:** `com.google.code.gson:gson:2.10.1`
+* **Arquitectura:** Foreground Service, BroadcastReceiver, SharedPreferences.
+
+
+### 🚀 Instalación
+
+1. **Clonar el repositorio:**
+   ```bash
+   git clone [https://github.com/Alejandro261102/ExamenMoviles.git](https://github.com/Alejandro261102/ExamenMoviles.git)
+
+---
