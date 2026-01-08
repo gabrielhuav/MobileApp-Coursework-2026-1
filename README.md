@@ -269,3 +269,21 @@ Este proyecto cumple con la totalidad de los requerimientos solicitados en la ev
    git clone [https://github.com/Alejandro261102/ExamenMoviles.git](https://github.com/Alejandro261102/ExamenMoviles.git)
 
 ---
+
+## 📷 Aplicación interactiva de JoJo's
+
+Aplicación interactiva para donde se muestra información relevante de los personajes principales de JoJo's
+
+### Características
+- 📷 Imagenes e información de los protagonistas de cada parte de JoJo's
+- 🎙️ Información de los poderes de cada personaje con gráfica de sus estadísticas
+- 🎨 Interfaz moderna con temas personalizables y modo oscuro
+
+### Capturas de Pantalla
+| | | |
+|---|---|---|
+| <img src="https://github.com/user-attachments/assets/18521dc9-afd7-4633-8e2f-f36ba6d957c3" width="250"/> | <img src="https://github.com/user-attachments/assets/886f8365-fe00-4f5c-9964-b476cec515f1" width="250"/> | <img src="https://github.com/user-attachments/assets/00336ff7-5dc0-42b4-8060-67539453a51d" width="250"/> |
+
+**Repositorio:** https://github.com/leay21/Tarea2.git
+
+---
