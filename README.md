@@ -106,5 +106,5 @@ Una implementación moderna del clásico juego Buscaminas para **dos jugadores**
 ## Repositorio dónde encontrar dicho proyecto
 
 **Aram García García**
-- GitHub: [@araakgg](https://github.com/GarciaGarciaAramJesua/Android)
+- GitHub: ![Buscaminas](https://github.com/PabloGranados/Juego2P)
 ---
