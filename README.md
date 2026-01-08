@@ -235,16 +235,13 @@ La aplicación permite el rastreo de la ubicación del usuario en tiempo real, p
 
 ### 📸 Capturas de Pantalla
 
-### 📸 Capturas de Pantalla
-
 | Intervalo 10s | Modo Obscuro | Modo Azul |
 |:---:|:---:|:---:|
-| <img src="https://github.com/Alejandro261102/ExamenMoviles/blob/main/NOMBRE_IMAGEN_1.png?raw=true" width="250"/> | <img src="https://github.com/Alejandro261102/ExamenMoviles/blob/main/NOMBRE_IMAGEN_2.png?raw=true" width="250"/> | <img src="https://github.com/Alejandro261102/ExamenMoviles/blob/main/NOMBRE_IMAGEN_3.png?raw=true" width="250"/> |
+| <img src="https://github.com/Alejandro261102/ExamenMoviles/blob/main/Intervalo_10s.jpeg?raw=true" width="250"/> | <img src="https://github.com/Alejandro261102/ExamenMoviles/blob/main/Modo_obscuro_2.jpegg?raw=true" width="250"/> | <img src="https://github.com/Alejandro261102/ExamenMoviles/blob/main/Modo_azul.jpeg?raw=true" width="250"/> |
 
-| Historial | Ruta en Mapa | Notificación |
+| Historial | Ruta en Mapa |
 |:---:|:---:|:---:|
-| <img src="https://github.com/Alejandro261102/ExamenMoviles/blob/main/NOMBRE_IMAGEN_4.png?raw=true" width="250"/> | <img src="https://github.com/Alejandro261102/ExamenMoviles/blob/main/NOMBRE_IMAGEN_5.png?raw=true" width="250"/> | <img src="https://github.com/Alejandro261102/ExamenMoviles/blob/main/NOMBRE_IMAGEN_6.png?raw=true" width="250"/> |
-
+| <img src="https://github.com/Alejandro261102/ExamenMoviles/blob/main/Historial.png?raw=true" width="250"/> | <img src="https://github.com/Alejandro261102/ExamenMoviles/blob/main/ruta.jpeg?raw=true" width="250"/> |
 ### 📋 Requerimientos Cumplidos (Examen)
 
 Este proyecto cumple con la totalidad de los requerimientos solicitados en la evaluación final 2026-1:
