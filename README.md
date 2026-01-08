@@ -287,3 +287,36 @@ Aplicación interactiva para donde se muestra información relevante de los pers
 **Repositorio:** https://github.com/leay21/Tarea2.git
 
 ---
+## ♦️ Blackjack (21)
+Juego de cartas clásico que permite partidas de 2 jugadores contra la casa y soporte para multijugador local.
+
+### Características
+- 🃏 Lógica de juego clásica de Blackjack (21)
+- 📶 Conexión multijugador mediante Bluetooth
+- 👥 Soporte para 2 jugadores simultáneos contra la casa
+- 📂 Historial de partidas y con opción de resumir partidas antiguas
+ 
+### Capturas de Pantalla
+| | | |
+|---|---|---|
+| <img width="250" alt="image" src="https://github.com/user-attachments/assets/066090a5-69e5-4c8f-b8e1-6aa04ff91c83" /> | <img width="250" height="1600" alt="image" src="https://github.com/user-attachments/assets/9b348486-b3f8-4883-b5f2-a59b8fcfa4b2" /> | <img width="250" alt="image" src="https://github.com/user-attachments/assets/77e6e80e-4637-4490-bd94-2170a476263c" /> | <img width="250" alt="image" src="https://github.com/user-attachments/assets/25b9673e-bee8-4ebd-8182-ba21076247b7" /> |
+
+**Repositorio:** [https://github.com/Brandonttt/Juego]
+---
+## 📌 Aplicación con rastreo
+
+Aplicación con historial de rastreo, uso de OpenStreetMaps y comparación de ubicaciones.
+
+### Características
+- 📍 Historial visual de ubicaciones registradas
+- 🎯 Medidor de precisión en tiempo real
+- 📂 Gestión de datos mediante JSON con opción de limpieza.
+
+### Capturas de Pantalla
+| | | | |
+|---|---|---|---|
+| <img width="250" src="https://github.com/user-attachments/assets/1969b206-834c-4775-89aa-3da1249571f5" /> | <img width="250" src="https://github.com/user-attachments/assets/5b50ba3f-4efd-4523-ab9b-a820ec8af12b" /> | <img width="250" src="https://github.com/user-attachments/assets/02c5a9b4-d4c9-48b6-a3c4-3427bc187c65" /> | <img width="250" src="https://github.com/user-attachments/assets/4eb24844-e92a-4ddd-b335-b04fa480c890" /> |
+
+**Repositorio:** [https://github.com/gael-marquez/Examen_Moviles]
+
+---
