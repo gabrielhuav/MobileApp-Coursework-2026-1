@@ -26,4 +26,25 @@ Tron 3D es un juego de batalla de motos lightcycle inspirado en Tron Legacy, don
   <br><em>Gameplay contra inteligencia artificial</em>
 </div>
 
+### Link al repositorio: https://github.com/said153/Pr-ctica-3-Aplicaciones-nativas.git
+
+---
+# 📷🎙️ Práctica 3 - Aplicaciones Nativas  
+## Aplicación de Cámara y Micrófono para Android 
+
+Es una aplicación nativa para Android que permite capturar fotografías y grabar audio utilizando la cámara y el micrófono del dispositivo. Integra una galería multimedia con opciones de edición, reproducción y organización de archivos.
+
+## ✨ Características principales
+
+- 📷 **Captura de fotos** con CameraX y aplicación de filtros en tiempo real.  
+- 🎙️ **Grabación de audio** con control de calidad y visualización dinámica de niveles.  
+- 🎨 **Interfaz moderna** con temas Guinda y Azul, compatible con modo claro y oscuro.
+
+# Captura de su implementacion
+| | | |
+|---|---|---|
+| <img src="https://github.com/user-attachments/assets/aa0ac2de-282a-49cc-b2ad-148a700fc01f" width="250"/> | <img src="https://github.com/user-attachments/assets/3e56d131-7911-4898-8229-5a92921267e3" width="250"/> | <img src="https://github.com/user-attachments/assets/f5a544c8-52e9-427f-9817-b8c01be421c8" width="250"/> |
+| <img src="https://github.com/user-attachments/assets/cdc0a05b-d9a0-4c3d-96b4-f0e8834fea0f" width="250"/> | <img src="https://github.com/user-attachments/assets/98232058-eb90-4bcc-b537-d6a91eff19a6" width="250"/> | <img src="https://github.com/user-attachments/assets/4d283441-8d1c-4c42-ba9c-420082aa669d" width="250"/> |
+
+### Link al repositorio: https://github.com/said153/Juego_LibGDX.git
 ---
