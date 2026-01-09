@@ -363,3 +363,37 @@ Desarrollo de una aplicación nativa en Android (Kotlin) para la participación 
 ## ENLACE AL REPOSITORIO
 https://github.com/LynxBard/VisorCiudadano.git
 ---
+
+# 🍎 NutriScan AI
+
+### **Identificador de Frutas y Verduras con Machine Learning**
+
+**NutriScan AI** es una solución de vanguardia que aprovecha el **Deep Learning** y la computación en el borde para clasificar automáticamente 62 categorías de frutas, verduras y vegetales. A diferencia de las soluciones basadas en la nube, nuestro sistema funciona **100% offline**, garantizando privacidad y velocidad inmediata mediante el procesamiento local en dispositivos Android.
+
+---
+
+### 🚀 Tecnologías Usadas
+
+* **IA & Deep Learning:** Python, TensorFlow 2.x, Keras.
+* **Arquitectura de Red:** EfficientNetB0 (Transfer Learning).
+* **Procesamiento de Datos:** NumPy, Pandas, Matplotlib, PIL.
+* **Mobile:** Android Studio, Kotlin, CameraX API.
+* **Optimización:** TensorFlow Lite (TFLite) para inferencia móvil.
+
+---
+
+### 📸 Previews
+
+| Interfaz de la App | Interfaz de la App | Entrenamiento en Colab |
+| :---: | :---: | :---: |
+| ![Colab](![11](https://github.com/user-attachments/assets/656e7dd0-2499-42b3-bd31-aa2dfb049c4e)
+) | ![Android](![1111](https://github.com/user-attachments/assets/4f8c6333-df34-41cc-91cf-2a34f5c8f5b1)
+) | ![Result](<img width="1208" height="394" alt="Captura de pantalla 2026-01-08 180114" src="https://github.com/user-attachments/assets/d6327fe1-b349-4960-9108-4bb9f4df074e" />
+) |
+
+
+---
+
+### 🔗 Repositorio
+
+---
