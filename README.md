@@ -481,5 +481,45 @@ La aplicación es acerca del juego de Conecta4, el cuál el primer jugador en al
 https://github.com/RuloMtz93/Raul_Martinez_Moviles_7CV2-2025.git
 ---
 
+## 🚀 Proyecto: Buscaminas Multijugador
 
+Aplicación móvil que presenta una versión **multijugador local** del clásico juego **Buscaminas**, permitiendo que dos jugadores compitan **en el mismo dispositivo** bajo reglas renovadas que añaden estrategia y dinamismo a cada partida.
+
+---
+
+## 🛠️ Tecnologías Utilizadas
+
+- **Kotlin** — Lenguaje de programación principal  
+- **Android SDK** — Plataforma de desarrollo  
+- **Jetpack Compose** — Toolkit moderno para interfaces declarativas  
+
+---
+
+## ✨ Características Principales
+
+- **💾 Guardado de partida**  
+  La aplicación permite guardar automáticamente la última partida cuando alguno de los jugadores solicita una pausa, para poder continuarla posteriormente.
+
+- **🧠 Reglas personalizadas**  
+  - La partida finaliza inmediatamente si un jugador descubre una mina.  
+  - Si el tiempo se agota, el ganador se determina según el **número de banderas colocadas correctamente** (cada bandera representa una bomba identificada).  
+  - Las banderas mal colocadas generan **penalizaciones de puntos**, fomentando la precisión y la estrategia.
+
+- **🌙 Modo oscuro**  
+  La interfaz puede personalizarse con un modo oscuro para una mejor experiencia visual.
+
+---
+
+## 📸 Capturas de Pantalla
+
+| Menú principal | Partida en curso | Partida en pausa | Partida terminada |
+|---|---|---|---|
+| <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/d2c719c5-0011-4aea-b42c-fd708bc2a914" /> | <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/75de9504-3b0a-4c3f-a721-d41468eda1c7" /> | <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/9aa01ecb-4fe7-46bd-8d29-862cd8846656" /> | <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/ad89fcd6-f9d6-4273-87fb-57bc08eff068" /> |
+
+---
+
+## 📦 Repositorio
+
+🔗 **GitHub:**  
+https://github.com/cris8pm/DAMN-7CV2
 ---
