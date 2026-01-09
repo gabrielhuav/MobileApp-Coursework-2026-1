@@ -519,6 +519,79 @@ Aplicación móvil que presenta una versión **multijugador local** del clásico
 
 ---
 
+## 🧩 GameVerse
+
+GameVerse es una App Android con navegación jerárquica e identidad visual temática de videojuegos. Tiene tres niveles (Géneros → Franquicias → Juegos) con Activities y Fragments, listas con RecyclerView, transiciones Material y cambio de tema Claro/Oscuro desde la Toolbar.
+
+### 🛠️ Detalles técnicos
+- **Kotlin**, **compileSdk 34**, **minSdk 24**, **targetSdk 34**, **JVM 17**.  
+- **ViewBinding** habilitado.  
+- Dependencias principales:
+  ```kotlin
+  implementation("androidx.core:core-ktx:1.13.1")
+  implementation("androidx.appcompat:appcompat:1.7.0")
+  implementation("com.google.android.material:material:1.12.0")
+  implementation("androidx.constraintlayout:constraintlayout:2.1.4")
+  implementation("androidx.fragment:fragment-ktx:1.8.3")
+  implementation("androidx.recyclerview:recyclerview:1.3.2")
+  implementation("androidx.activity:activity-ktx:1.9.2")
+  implementation("com.google.android.flexbox:flexbox:3.0.0")
+  ```
+
+### ⚙️ Funciones principales
+
+- 🧭 Navegación 3 niveles: Géneros → Franquicias → Juegos
+- 🗂️ Listas/grids: RecyclerView (1 col / 2 col / 1 col)
+- 🎮 Detalle de juego: portada, chips, “leer más”, facts
+- ✨ UI Material: transiciones y toolbars contextuales
+- 🌗 Tema claro/oscuro: switch + guardado en SharedPreferences
+
+### 📸 Capturas de funcionamiento
+| | | | |
+|---|---|---|---|
+| <img src="https://raw.githubusercontent.com/LuisContla/DesarrolloAppsMoviles/main/Pr%C3%A1ctica%202/Capturas/MainOscuro.png" width="250"/> | <img src="https://raw.githubusercontent.com/LuisContla/DesarrolloAppsMoviles/main/Pr%C3%A1ctica%202/Capturas/MainClaro.png" width="250"/> | <img src="https://raw.githubusercontent.com/LuisContla/DesarrolloAppsMoviles/main/Pr%C3%A1ctica%202/Capturas/FranchiseOscuro.png" width="250"/> | <img src="https://raw.githubusercontent.com/LuisContla/DesarrolloAppsMoviles/main/Pr%C3%A1ctica%202/Capturas/FranchiseClaro.png" width="250"/> |
+| <img src="https://raw.githubusercontent.com/LuisContla/DesarrolloAppsMoviles/main/Pr%C3%A1ctica%202/Capturas/GamesOscuro.png" width="250"/> | <img src="https://raw.githubusercontent.com/LuisContla/DesarrolloAppsMoviles/main/Pr%C3%A1ctica%202/Capturas/GamesClaro.png" width="250"/> | <img src="https://raw.githubusercontent.com/LuisContla/DesarrolloAppsMoviles/main/Pr%C3%A1ctica%202/Capturas/GameOscuro.png" width="250"/> | <img src="https://raw.githubusercontent.com/LuisContla/DesarrolloAppsMoviles/main/Pr%C3%A1ctica%202/Capturas/GameClaro.png" width="250"/> |
+
+
+### 📚 Links del proyecto
+- GameVerse: [Repositorio](https://github.com/LuisContla/DesarrolloAppsMoviles/tree/main/Pr%C3%A1ctica%202)
+- Autor: [Luis Contla](https://github.com/LuisContla)
+
+---
+
+## 📱 App con consumo de API propia y pública TVMaze
+Este proyecto corresponde a la Práctica 5 de la asignatura Desarrollo de aplicaciones móviles nativas. Consiste en el desarrollo de una aplicación Android nativa utilizando Kotlin + XML, que integra el consumo de APIs REST, persistencia local de datos, sincronización offline/online, funcionalidades de búsqueda, favoritos y un sistema de administración con roles. La aplicación está diseñada bajo un enfoque offline-first, permitiendo el uso de información almacenada localmente aun cuando no existe conexión a internet.
+
+### 🛠️ Detalles técnicos
+- Kotlin + XML
+- Activities y Fragments
+- Retrofit
+- Room (SQLite)
+- Coroutines
+- Navigation Component
+- Backend Node.js + Express + SQLite
+- Autenticación JWT
+
+### ⚙️ Funciones principales
+- 👤 Autenticación y sesión
+- 🔍 Búsqueda de series
+- ⭐ Agregar favoritos
+- 🤖 Sistema de recomendaciones
+- 🗂️ Consumo de API REST propia y pública
+- 🛠️ Panel de administrador
+
+### 📸 Capturas de funcionamiento
+| | | | |
+|---|---|---|---|
+| <img src="https://raw.githubusercontent.com/LuisContla/DesarrolloAppsMoviles/main/Pr%C3%A1ctica%205/Capturas/Vista1.jpg" width="250"/> | <img src="https://raw.githubusercontent.com/LuisContla/DesarrolloAppsMoviles/main/Pr%C3%A1ctica%205/Capturas/Vista2.jpg" width="250"/> | <img src="https://raw.githubusercontent.com/LuisContla/DesarrolloAppsMoviles/main/Pr%C3%A1ctica%205/Capturas/Vista3.jpg" width="250"/> | <img src="https://raw.githubusercontent.com/LuisContla/DesarrolloAppsMoviles/main/Pr%C3%A1ctica%205/Capturas/Vista4.jpg" width="250"/> |
+| <img src="https://raw.githubusercontent.com/LuisContla/DesarrolloAppsMoviles/main/Pr%C3%A1ctica%205/Capturas/Vista5.jpg" width="250"/> | <img src="https://raw.githubusercontent.com/LuisContla/DesarrolloAppsMoviles/main/Pr%C3%A1ctica%205/Capturas/Vista6.jpg" width="250"/> | <img src="https://raw.githubusercontent.com/LuisContla/DesarrolloAppsMoviles/main/Pr%C3%A1ctica%205/Capturas/Vista7.jpg" width="250"/> | <img src="https://raw.githubusercontent.com/LuisContla/DesarrolloAppsMoviles/main/Pr%C3%A1ctica%205/Capturas/Vista8.jpg" width="250"/> |
+
+### 📚 Links del proyecto
+- App con API: [Repositorio](https://github.com/LuisContla/DesarrolloAppsMoviles/tree/main/Pr%C3%A1ctica%205)
+- Autor: [Luis Contla](https://github.com/LuisContla)
+
+---
+
 ## 📦 Repositorio
 
 🔗 **GitHub:**  
