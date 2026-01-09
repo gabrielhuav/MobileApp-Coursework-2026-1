@@ -386,24 +386,25 @@ https://github.com/LynxBard/VisorCiudadano.git
 ### 📸 Previews
 
 #### Entrenamiento y Validación (Colab)
-![Entrenamiento](<img width="1208" height="394" alt="Captura de pantalla 2026-01-08 180114" src="https://github.com/user-attachments/assets/96434834-b90a-4c44-8c49-d8730e201af4" />
-)
+<img width="1208" height="394" alt="Captura de pantalla 2026-01-08 180114" src="https://github.com/user-attachments/assets/fb995131-4ea8-4112-9aa9-f1d51828eb04" />
+
 
 #### Interfaz de Usuario (Android)
-![Interfaz](![11](https://github.com/user-attachments/assets/ee2cb4d2-408a-4fa8-9498-e786dce4418c)
-)
+![11](https://github.com/user-attachments/assets/ee2cb4d2-408a-4fa8-9498-e786dce4418c)
+
 
 #### Identificación de Alimentos en Vivo
-![Prediccion](![1111](https://github.com/user-attachments/assets/096b9b37-4325-4e9b-a8b3-4ccb48885ca4)
-)
+![1111](https://github.com/user-attachments/assets/096b9b37-4325-4e9b-a8b3-4ccb48885ca4)
+
 
 ---
 
 ### 🔗 Repositorio
 
-
 👉 **[LINK AL REPOSITORIO AQUÍ](https://github.com/KevinDz11/Identificador-de-frutas-con-ML.git)**
+### 🔗 Tutorial
 
+👉 **[LINK AL TUTORIAL AQUÍ](https://youtu.be/5GjMJrkjf7g)**
 
 ---
 
