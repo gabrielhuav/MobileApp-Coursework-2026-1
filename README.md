@@ -446,10 +446,10 @@ Aplicación nativa diseñada para la organización eficiente del almacenamiento 
 ### Capturas de Pantalla
 | | | |
 |---|---|---|
-| <img width="720" height="1600" alt="imagen" src="https://github.com/user-attachments/assets/0411c58f-e223-42d4-87e2-115519bbe137" />
- | <img width="720" height="1600" alt="imagen" src="https://github.com/user-attachments/assets/aaf74c4e-2f12-4fc4-91e0-96522c3ed815" />
- | <img width="720" height="1600" alt="imagen" src="https://github.com/user-attachments/assets/c8c37aa3-3aa5-435a-855b-c7e146f2ecf9" />
- |
+| ![](https://github.com/user-attachments/assets/0411c58f-e223-42d4-87e2-115519bbe137)
+| ![](https://github.com/user-attachments/assets/aaf74c4e-2f12-4fc4-91e0-96522c3ed815)
+| ![](https://github.com/user-attachments/assets/c8c37aa3-3aa5-435a-855b-c7e146f2ecf9)
+|
 | *Explorador Principal* | *Favoritos* | *Temas* |
 
 **Repositorio:** https://github.com/TonyRV8/Pr-ctica-3-Aplicaciones-nativas
