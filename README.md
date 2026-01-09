@@ -512,6 +512,38 @@ La aplicación hace uso de **Activities y Fragments** para mostrar mapas, lugare
 https://github.com/Alfx17/Aventura_Interactiva
 
 ---
+## Proyecto 25: 🎬 CineVerse - App de Búsqueda y Recomendación de Series
+Aplicación Android desarrollada con **Jetpack Compose**. Permite buscar series, gestionar favoritos y recibir recomendaciones personalizadas, sincronizando datos en la nube con Firebase.
+
+# 📱 Características Principales
+
+* **🔍 Búsqueda:** Búsqueda en tiempo real sobre la base de datos en Firebase.
+* **❤️ Gestión de Favoritos:** Persistencia local inmediata, sincronización en la nube con **Firebase Firestore** y soporte multi-usuario (cada usuario ve sus propios favoritos).
+* **🤖 Sistema de Recomendaciones:** Algoritmo que sugiere series basadas en los géneros de los favoritos del usuario.
+* **🕒 Historial de Búsqueda:** Guardado local de términos recientes.
+* **🔐 Autenticación:** Login y Registro de usuarios mediante **Firebase Authentication**.
+* **🔌 API Utilizada:**
+Los datos de las series se obtienen de la API pública de **TVMaze**: Endpoint: `https://api.tvmaze.com/search/shows?q={query}`
+
+# 🛠️ Herramientas Tecnológicas
+
+* **Lenguaje:** Kotlin
+* **UI:** Jetpack Compose (Material Design 3)
+* **Arquitectura:** MVVM (Model-View-ViewModel) + Clean Architecture (Capas de Data, Domain, UI).
+* **Inyección de Dependencias:** Manual (Factory Pattern).
+* **Asincronía:** Coroutines & Flow.
+  
+# 📸 Capturas de Pantalla 
+Usuario "test@correo.com"
+| Login de la App | Catalogo de la API | Favoritos y Recomendaciones |
+|:---:|:---:|:---:|
+| <img src="https://github.com/RUME05/practica5-Consulta_Basesdedatos_viaAPIs/blob/master/capsP5/1.jpg?raw=true" width="300"/> | <img src="https://github.com/RUME05/practica5-Consulta_Basesdedatos_viaAPIs/blob/master/capsP5/2.jpg?raw=true" width="300"/> | <img src="https://github.com/RUME05/practica5-Consulta_Basesdedatos_viaAPIs/blob/master/capsP5/3.jpg?raw=true" width="300"/> |
+| *Login con correo y contraseña.* | *Catalogo de la API con historial de búsqueda.* | *Favoritos y recomendaciones del usuario.* |
+
+# 📂 Enlace al Repositorio completo:
+https://github.com/RUME05/practica5-Consulta_Basesdedatos_viaAPIs/tree/master
+
+---
 
 ## 📝 Licencia
 
