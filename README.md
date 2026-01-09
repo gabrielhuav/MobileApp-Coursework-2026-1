@@ -358,7 +358,7 @@ Desarrollo de una aplicación nativa en Android (Kotlin) para la participación 
 |![](https://github.com/user-attachments/assets/f117fc10-9993-4d78-9734-92efdd320e7a)|![](https://github.com/user-attachments/assets/efffefba-1b28-41bb-a4c6-78605ea8539f)|![](https://github.com/user-attachments/assets/4be6c2d1-b6e8-4354-96f3-81ac749fa96f)|
 |Reporte de Robo|Filtro de Emergencias|Filtro de Violencia de Genero|
 |:---:|:---:|:---:|
-|![](https://github.com/user-attachments/assets/bbc68c46-10fe-49eb-b98d-8387c5e30980)|![](https://github.com/user-attachments/assets/1426190e-a344-498f-a5ae-0ca089329a10)|![](https://github.com/user-attachments/assets/26e04bee-1031-4e83-9f3a-c7da37dc6d59)|
+|![](https://github.com/user-attachments/assets/bbc68c46-10fe-49eb-b98d-8387c5e30980)|![](https://github.com/user-attachments/assets/1426190e-a344-498f-a5ae-0ca089329a10)|![](https://github.com/user-attachments/assets/1f9605a9-d5fe-4807-b843-ead1a2a23bd4)|
 
 ## ENLACE AL REPOSITORIO
 https://github.com/LynxBard/VisorCiudadano.git
