@@ -545,6 +545,65 @@ https://github.com/RUME05/practica5-Consulta_Basesdedatos_viaAPIs/tree/master
 
 ---
 
+## Tarea 2: 🌆 Cyberdream – Exploración Urbana Cyberpunk
+
+Aplicación Android desarrollada en Kotlin, con estética Cyberpunk y diseño basado en Material Design 3. Permite explorar una ciudad ficticia dividida en barrios y edificios, ofreciendo mapas, galerías, animaciones y puntos de interés (POIs) para una experiencia visual inmersiva.
+
+
+---
+
+📱 Características Principales
+* 🏙️ Exploración Jerárquica: Navegación estructurada en tres niveles: Ciudad → Barrios → Edificios.
+* 🧭 Navegación por Tabs: Cada nivel cuenta con secciones organizadas para información, mapas, ambiente y galerías.
+
+🌌 Estética Cyberpunk:
+* Paleta neón (cyan, rosa, amarillo).
+* Tipografía personalizada Orbitron.
+* Fondos dinámicos y botones estilo holograma.
+
+🎞️ Animaciones Personalizadas:
+* Transiciones slide y fade entre pantallas.
+* Animaciones de entrada y salida en fragments.
+* Efecto visual de lluvia en ambientes de barrio.
+
+📍 POIs (Puntos de Interés):
+* Implementados con RecyclerView + CardView.
+* Cada POI incluye nombre, descripción e imagen.
+
+🖼️ Galerías de Edificios:
+* Galerías tipo grid con ampliación fullscreen.
+* Recursos gráficos optimizados para rendimiento.
+ 
+ ---
+ 📸 Capturas de Pantalla
+
+### Ciudad
+| Vista General | Noticias | Mapa |
+|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/fae6f389-6091-4261-b3c2-ab61037aebbf" width="200"/> | <img src="https://github.com/user-attachments/assets/a1d22908-b1df-4a65-bb42-fd580ae9b939" width="200"/> | <img src="https://github.com/user-attachments/assets/ea3a8ad6-97a7-4c99-84c2-bbf6121959ac" width="200"/> |
+
+
+### Barrios
+| Ambiente | Edificios | Mapa |
+|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/64d8615e-eef4-40af-a320-a6c0fa3d88f8" width="200"/> | <img src="https://github.com/user-attachments/assets/bfe9974e-841a-4d78-8e85-66974f38cca9" width="200"/> | <img src="https://github.com/user-attachments/assets/b87706f6-405e-48dc-ad85-040549dbdd0b" width="200"/> |
+
+
+### Edificios
+| Info | Galería | POIs |
+|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/1a9d887a-3399-47c7-b943-70aecf24c114" width="200"/> | <img src="https://github.com/user-attachments/assets/b694ae1f-f943-4412-87ad-ea128afd7884" width="200"/> | <img src="https://github.com/user-attachments/assets/591fab38-d434-4b36-b54e-d53113ceaa46" width="200"/> |
+
+---
+📂 Enlace al Repositorio
+
+https://github.com/archykuroko/AplicacionesMoviles
+
+
+
+---
+
+
 ## 📝 Licencia
 
 Proyectos académicos desarrollados para el curso de Desarrollo de Aplicaciones Móviles Nativas 2026-1.
