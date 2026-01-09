@@ -504,8 +504,7 @@ La aplicación hace uso de **Activities y Fragments** para mostrar mapas, lugare
 
 | Selección de país | Selección de lugar | Detalle del lugar |
 |------------------|-------------------|-------------------|
-| ![1](https://github.com/user-attachments/assets/d2064963-08cd-49a8-b02d-364a82d2f241) | ![2](https://github.com/user-attachments/assets/b370724a-abb6-4b19-923d-00f87b615d0c) | ![3](https://github.com/user-attachments/assets/ddce4c58-b353-4a0f-8309-eb2d6a5610c8) |
-
+| ![América](https://raw.githubusercontent.com/Alfx17/Aventura_Interactiva/main/fondo/America.jpeg) | ![México](https://raw.githubusercontent.com/Alfx17/Aventura_Interactiva/main/fondo/Mexico.jpeg) | ![Vallarta](https://raw.githubusercontent.com/Alfx17/Aventura_Interactiva/main/fondo/Vallarta.jpeg) |
 
 ## 🔗 Enlace al repositorio
 
