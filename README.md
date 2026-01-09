@@ -311,3 +311,65 @@ La aplicación es acerca del juego de Conecta4, el cuál el primer jugador en al
 
 ### 🚀 Repositorio
  https://github.com/RuloMtz93/Raul_Martinez_Moviles_7CV2-2025.git
+---
+## ♦️ Blackjack (21)
+Juego de cartas clásico que permite partidas de 2 jugadores contra la casa y soporte para multijugador local.
+
+### Características
+- 🃏 Lógica de juego clásica de Blackjack (21)
+- 📶 Conexión multijugador mediante Bluetooth
+- 👥 Soporte para 2 jugadores simultáneos contra la casa
+- 📂 Historial de partidas y con opción de resumir partidas antiguas
+ 
+### Capturas de Pantalla
+| | | |
+|---|---|---|
+| <img width="250" alt="image" src="https://github.com/user-attachments/assets/066090a5-69e5-4c8f-b8e1-6aa04ff91c83" /> | <img width="250" height="1600" alt="image" src="https://github.com/user-attachments/assets/9b348486-b3f8-4883-b5f2-a59b8fcfa4b2" /> | <img width="250" alt="image" src="https://github.com/user-attachments/assets/77e6e80e-4637-4490-bd94-2170a476263c" /> | <img width="250" alt="image" src="https://github.com/user-attachments/assets/25b9673e-bee8-4ebd-8182-ba21076247b7" /> |
+
+**Repositorio:** [https://github.com/Brandonttt/Juego]
+---
+## 📌 Aplicación con rastreo
+
+Aplicación con historial de rastreo, uso de OpenStreetMaps y comparación de ubicaciones.
+
+### Características
+- 📍 Historial visual de ubicaciones registradas
+- 🎯 Medidor de precisión en tiempo real
+- 📂 Gestión de datos mediante JSON con opción de limpieza.
+
+### Capturas de Pantalla
+| | | | |
+|---|---|---|---|
+| <img width="250" src="https://github.com/user-attachments/assets/1969b206-834c-4775-89aa-3da1249571f5" /> | <img width="250" src="https://github.com/user-attachments/assets/5b50ba3f-4efd-4523-ab9b-a820ec8af12b" /> | <img width="250" src="https://github.com/user-attachments/assets/02c5a9b4-d4c9-48b6-a3c4-3427bc187c65" /> | <img width="250" src="https://github.com/user-attachments/assets/4eb24844-e92a-4ddd-b335-b04fa480c890" /> |
+
+**Repositorio:** [https://github.com/gael-marquez/Examen_Moviles]
+
+---
+
+
+# Explorador de Archivos Android (Gestor de Archivos)
+Aplicación Android desarrollada en Kotlin (Android Studio) para exploración y gestión de archivos: permite navegar por almacenamiento interno/externo y realizar acciones como crear carpetas, eliminar, copiar, mover, renombrar y abrir archivos. Incluye UI moderna con Material Design 3, tema claro/oscuro y paletas Guinda IPN / Azul ESCOM.
+
+# CAPTURAS DE PANTALLA
+![explorador3](https://github.com/user-attachments/assets/14f39f28-8a89-4cc7-a06e-944baecd2960)
+![explorador4](https://github.com/user-attachments/assets/07833bde-68c2-439b-a2b8-d0c0fe5da5a3)
+![explorador1](https://github.com/user-attachments/assets/4811e457-995d-48f4-82a1-b374fab71c4e)
+![explorador2](https://github.com/user-attachments/assets/0fa78a21-718d-4e5d-addb-7590c9cac8f3)
+
+# ENLACE AL REPOSITORIO
+https://github.com/DiFlyy/Practica_3
+
+# LINK DEL REPOSITORIO
+Lenguaje: Kotlin
+IDE: Android Studio
+Plataforma: Android
+Interfaz de usuario: Material Design 3
+Gestión de archivos: API de almacenamiento de Android (File / Storage Access)
+Arquitectura: Componentes nativos de Android (Activities / RecyclerView)
+Temas y estilos:
+Modo claro y oscuro
+Paletas de color Guinda IPN y Azul ESCOM
+Control de versiones: Git y GitHub
+Este conjunto de tecnologías permitió desarrollar una aplicación móvil funcional, moderna y adaptable, enfocada en la exploración y administración eficiente de archivos dentro del sistema Android.
+
+---
