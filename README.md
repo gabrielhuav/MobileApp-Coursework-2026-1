@@ -603,6 +603,39 @@ https://github.com/archykuroko/AplicacionesMoviles
 
 ---
 
+# Yu-Gi-Oh-Card-database-app
+App realizada con fines de practica en el desarrollo móvil, usando MVVM, retrofit, corrutinas y Room
+
+Yu-Gi-Oh! Card database
+App que permite buscar información del juego de cartas coleccionables. Utilizando una arquitectura MVVM y Single Activity
+![architecture](https://user-images.githubusercontent.com/115143423/202417057-1bd73303-d18e-45f2-a453-4886a4c28d60.png)
+
+Al ser Single Activity el ViewModel los fragmentos pueden comunicarse gracias al viewModel
+El viewModel se le injecta por constructor una clase NetworkConnectivity, dicha clase extiende de LiveData<Boolean> la cual contiene un objeto que 
+hereda de la clase NetworkCallback, actualizando el valor con los callbacks onAvilable y onLost, validando la conexión de ese objeto Network estableciendo
+una conexción con https://www.google.com
+
+## Fragmento principal
+Muestra cartas aleatorias, mostrándolas en un recyclerview y actualizando ese listado cada que se hace scroll.
+
+<table>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/115143423/202418155-bcb8288e-8656-47f1-b4f6-0a1e8a698313.jpg" width="300pt"></td>
+    <td><img src="https://user-images.githubusercontent.com/115143423/202418163-99979532-7e1e-4aef-b6da-85835960f53b.jpg" width="300pt"></td>
+  </tr>
+</table>
+
+## Fragmento de detalle
+<img src="https://user-images.githubusercontent.com/115143423/202420839-5b6591b2-951a-491d-8a96-f3b58bf420a8.jpg" width="300pt">
+
+# Busqueda
+La Appbar es administrada por la actividad, en el fragmento principal, cuenta con un icono, un searchView y un menú.
+
+El searchView permite buscar en la lista actual como en el Api.
+
+<img src="https://user-images.githubusercontent.com/115143423/202422636-cb21f88a-3850-4265-847b-cbdbb36ab27b.jpg" width="300pt">
+
+**Link del repositorio:** https://github.com/diegoxze35/Yu-Gi-Oh-Card-database-app
 
 ## 📝 Licencia
 
