@@ -362,3 +362,4 @@ Desarrollo de una aplicación nativa en Android (Kotlin) para la participación 
 
 ## ENLACE AL REPOSITORIO
 https://github.com/LynxBard/VisorCiudadano.git
+---
