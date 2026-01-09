@@ -487,6 +487,33 @@ Aplicación Android con consumo de API REST propia y pública (TVMaze), autentic
 
 ---
 
+## 🌎 Proyecto 24 Aventura Interactiva 
+
+Aventura Interactiva es una aplicación Android desarrollada en **Kotlin** que permite al usuario explorar distintos países de América mediante una navegación inmersiva.  
+La aplicación hace uso de **Activities y Fragments** para mostrar mapas, lugares turísticos emblemáticos, descripciones breves y videos representativos.
+
+**Tecnologías utilizadas:**
+- Kotlin  
+- Android Studio  
+- Activities  
+- Fragments  
+
+---
+
+## 📱 Capturas de pantalla
+
+| Selección de país | Selección de lugar | Detalle del lugar |
+|------------------|-------------------|-------------------|
+| ![1](https://github.com/user-attachments/assets/7a07613d-efc9-4c6f-a147-8ba8551745c9) | ![2](https://github.com/user-attachments/assets/ee21e450-d225-414e-987d-b963669dda8c) | ![3](https://github.com/user-attachments/assets/91d19c81-c2c5-43b0-9c33-06bb9e0d3469) |
+
+
+## 🔗 Enlace al repositorio
+
+📂 Código fuente completo disponible en:  
+https://github.com/Alfx17/Aventura_Interactiva
+
+---
+
 ## 📝 Licencia
 
 Proyectos académicos desarrollados para el curso de Desarrollo de Aplicaciones Móviles Nativas 2026-1.
