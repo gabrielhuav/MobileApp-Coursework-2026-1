@@ -392,6 +392,60 @@ https://github.com/LynxBard/VisorCiudadano.git
 ) |
 
 
+
+# 🏍️ Proyecto: Memorama Colorido
+
+Juego de Memoria dinámico diseñado con un enfoque en la experiencia visual y la interactividad. El proyecto ofrece un desafío de agilidad mental en solitario, un modo competitivo local y una implementación de multijugador inalámbrico.
+
+## 🕹️ Modos de Juego
+* **Solo Challenge:** Un modo con mecánicas distintas al tradicional que pone a prueba la retención bajo presión.
+* **Local Versus:** Duelo clásico para dos jugadores en el mismo dispositivo.
+* **Bluetooth Multiplayer:** Conectividad en tiempo real para jugar en dos dispositivos distintos.
+
+## 🛠️ Tecnologías
+* **Kotlin** - Lenguaje de programación de alto nivel para una lógica de juego robusta y concisa.
+* **LibGDX** - Framework multiplataforma utilizado para la gestión de escenas, assets y el motor de renderizado 2D.
+* **OpenGL ES** - Renderizado de alta eficiencia para efectos de partículas, transiciones de color y sombreados dinámicos.
+* **Bluetooth API** - Implementación de sockets para la transferencia de datos y sincronización de partidas en tiempo real.
+
+---
+
+### Capturas de Pantalla
+| | | |
+|---|---|---|
+| <img width="738" height="1600" alt="imagen" src="https://github.com/user-attachments/assets/7248e79d-bfe1-4889-b6c8-f180cba9e4ca" />
+
+ | <img width="738" height="1600" alt="imagen" src="https://github.com/user-attachments/assets/b223774d-0ca3-464f-8df1-e52e70c0019a" />
+|![Uploading imagen.png…]()
+|
+| *Menu Principal* | *Buscando partida* | *Partida Bluetooth* |
+
+**Repositorio:** https://github.com/Gabriel024226/juegopara2jugadoresgratis
+
+## 📂 Proyecto: Gestor de Archivos Android
+
+Aplicación nativa diseñada para la organización eficiente del almacenamiento interno y externo. Permite navegar directorios, gestionar documentos (copiar, mover, eliminar) y visualizar el contenido con una interfaz limpia y rápida.
+
+### Tecnologías
+- **Kotlin** - Lenguaje de desarrollo nativo
+- **Coroutines** - Manejo de hilos en segundo plano (I/O)
+- **Storage Access Framework** - Acceso seguro al sistema de archivos
+- **RecyclerView** - Listado optimizado de elementos
+- **Material Design** - Interfaz de usuario intuitiva
+
+### Capturas de Pantalla
+| | | |
+|---|---|---|
+| <img width="720" height="1600" alt="imagen" src="https://github.com/user-attachments/assets/0411c58f-e223-42d4-87e2-115519bbe137" />
+ | <img width="720" height="1600" alt="imagen" src="https://github.com/user-attachments/assets/aaf74c4e-2f12-4fc4-91e0-96522c3ed815" />
+ | <img width="720" height="1600" alt="imagen" src="https://github.com/user-attachments/assets/c8c37aa3-3aa5-435a-855b-c7e146f2ecf9" />
+ |
+| *Explorador Principal* | *Favoritos* | *Temas* |
+
+**Repositorio:** https://github.com/TonyRV8/Pr-ctica-3-Aplicaciones-nativas
+
+
+
 ---
 
 ### 🔗 Repositorio
