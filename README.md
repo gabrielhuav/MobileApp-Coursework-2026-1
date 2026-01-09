@@ -404,6 +404,10 @@ https://github.com/LynxBard/VisorCiudadano.git
 
 👉 **[LINK AL TUTORIAL AQUÍ](https://youtu.be/5GjMJrkjf7g)**
 
+### 🔗 Presentación
+
+👉 **[LINK A LA PRESENTACIÓN AQUÍ](https://www.canva.com/design/DAG9lyLCIic/1rKlR4YnadxxEYtAmHNE2g/edit?utm_content=DAG9lyLCIic&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**
+
 ---
 
 # 🏍️ Proyecto: Memorama Colorido
