@@ -328,8 +328,7 @@ Aplicación Android desarrollada en Kotlin (Android Studio) para exploración y 
 # CAPTURAS DE PANTALLA
 | | | | |
 |:---:|:---:|:---:|:---:|
-| ![explorador3](https://github.com/user-attachments/assets/14f39f28-8a89-4cc7-a06e-944baecd2960) | ![explorador4](https://github.com/user-attachments/assets/07833bde-68c2-439b-a2b8-d0c0fe5da5a3)
- | ![explorador1](https://github.com/user-attachments/assets/4811e457-995d-48f4-82a1-b374fab71c4e) | ![explorador2](https://github.com/user-attachments/assets/0fa78a21-718d-4e5d-addb-7590c9cac8f3) |
+| ![explorador3](https://github.com/user-attachments/assets/14f39f28-8a89-4cc7-a06e-944baecd2960) | ![explorador4](https://github.com/user-attachments/assets/07833bde-68c2-439b-a2b8-d0c0fe5da5a3) | ![explorador1](https://github.com/user-attachments/assets/4811e457-995d-48f4-82a1-b374fab71c4e) | ![explorador2](https://github.com/user-attachments/assets/0fa78a21-718d-4e5d-addb-7590c9cac8f3) |
 
 # ENLACE AL REPOSITORIO
 https://github.com/DiFlyy/Practica_3
