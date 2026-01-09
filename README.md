@@ -20,7 +20,7 @@ Juego de batalla de motos lightcycle inspirado en Tron Legacy, donde los jugador
 | <img src="https://github.com/user-attachments/assets/55153e3e-00cd-4e39-828a-f28eefd3758a" width="250"/> | <img src="https://github.com/user-attachments/assets/8d87b7cc-f56f-4cdb-9a30-af94b9842510" width="250"/> | <img src="https://github.com/user-attachments/assets/eb533c9e-35f5-4cb0-ad47-6c98be981945" width="250"/> |
 | *Menú principal* | *Selección de modo* | *Gameplay vs IA* |
 
-**Repositorio:** https://github.com/said153/Pr-ctica-3-Aplicaciones-nativas.git
+**Repositorio:** https://github.com/said153/Juego_LibGDX.git
 
 ---
 
@@ -39,7 +39,7 @@ Aplicación nativa para Android que permite capturar fotografías y grabar audio
 | <img src="https://github.com/user-attachments/assets/aa0ac2de-282a-49cc-b2ad-148a700fc01f" width="250"/> | <img src="https://github.com/user-attachments/assets/3e56d131-7911-4898-8229-5a92921267e3" width="250"/> | <img src="https://github.com/user-attachments/assets/f5a544c8-52e9-427f-9817-b8c01be421c8" width="250"/> |
 | <img src="https://github.com/user-attachments/assets/cdc0a05b-d9a0-4c3d-96b4-f0e8834fea0f" width="250"/> | <img src="https://github.com/user-attachments/assets/98232058-eb90-4bcc-b537-d6a91eff19a6" width="250"/> | <img src="https://github.com/user-attachments/assets/4d283441-8d1c-4c42-ba9c-420082aa669d" width="250"/> |
 
-**Repositorio:** https://github.com/said153/Juego_LibGDX.git
+**Repositorio:** https://github.com/said153/Pr-ctica-3-Aplicaciones-nativas.git
 
 ---
 
