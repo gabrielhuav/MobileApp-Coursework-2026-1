@@ -478,11 +478,27 @@ Aplicación nativa diseñada para la organización eficiente del almacenamiento 
 | ![Android](![1111](https://github.com/user-attachments/assets/4f8c6333-df34-41cc-91cf-2a34f5c8f5b1)
 | ![Result](<img width="1208" height="394" alt="Captura de pantalla 2026-01-08 180114" src="https://github.com/user-attachments/assets/d6327fe1-b349-4960-9108-4bb9f4df074e" />)
 
+--
 
+## 🔐 Proyecto: Conecta4
 
----
+La aplicación es acerca del juego de Conecta4, el cuál el primer jugador en alinear 4 fichas gana, esta implementado para jugar local, contra la inteligencia artificial y también mediante bluetooth.
+
+### Tecnologías
+- **Kotlin** - Lenguaje de programación
+- **Android SDK** - Plataforma de desarrollo
+- **Bluetooth** - Comunicación local
+
+### Capturas de Pantalla
+| | | | |
+|---|---|---|---|
+| ![Conecta1](https://github.com/user-attachments/assets/0b08ae78-b96b-46a4-bbde-f8882aaeda59) | ![Conecta2](https://github.com/user-attachments/assets/fe4f2ec6-978b-4110-a59f-3a9dfcfa93cf) | ![Conecta3](https://github.com/user-attachments/assets/c44fe8d6-7f86-4b64-ae00-d1b1bb74387a) | ![Conecta4](https://github.com/user-attachments/assets/5d2e7c5c-3118-46d9-b082-6ec5fd46ceba) |
+
 
 ### 🔗 Repositorio
 
-**[LINK AL REPOSITORIO AQUÍ](https://github.com/KevinDz11/Identificador-de-frutas-con-ML.git)**
+https://github.com/RuloMtz93/Raul_Martinez_Moviles_7CV2-2025.git
+---
+
+
 ---
