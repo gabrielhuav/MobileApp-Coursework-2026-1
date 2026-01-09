@@ -504,7 +504,7 @@ La aplicación hace uso de **Activities y Fragments** para mostrar mapas, lugare
 
 | Selección de país | Selección de lugar | Detalle del lugar |
 |------------------|-------------------|-------------------|
-| ![1](https://github.com/user-attachments/assets/7a07613d-efc9-4c6f-a147-8ba8551745c9) | ![2](https://github.com/user-attachments/assets/ee21e450-d225-414e-987d-b963669dda8c) | ![3](https://github.com/user-attachments/assets/91d19c81-c2c5-43b0-9c33-06bb9e0d3469) |
+| ![1](https://github.com/user-attachments/assets/d2064963-08cd-49a8-b02d-364a82d2f241) | ![2](https://github.com/user-attachments/assets/b370724a-abb6-4b19-923d-00f87b615d0c) | ![3](https://github.com/user-attachments/assets/ddce4c58-b353-4a0f-8309-eb2d6a5610c8) |
 
 
 ## 🔗 Enlace al repositorio
