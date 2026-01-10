@@ -600,7 +600,59 @@ Aplicación Android desarrollada en Kotlin, con estética Cyberpunk y diseño ba
 https://github.com/archykuroko/AplicacionesMoviles
 
 ---
+---
+## Juego Memorama - (Juego Local, vs IA y Bluetooth)
 
+Aplicación Android del juego Memorama que tiene diferentes modos de juego, con la posibilidad de jugar en el mismo dispositivo o en dos diferentes por medio de una conexión Bluetooth. También permite visualizar las repeticiones de partidas guardadas en el dispositivo usando xml. 
+
+### Dependencias / tecnologías principales
+- **Kotlin**
+- **Jetpack Compose** (UI)
+- **Material 3** (componentes UI)
+- **Coroutines** (tareas asíncronas / delays de turnos)
+- Bluetooth:
+  - Permisos típicos (Android 12+): `BLUETOOTH_SCAN`, `BLUETOOTH_CONNECT`  
+  - En versiones anteriores: `BLUETOOTH`, `BLUETOOTH_ADMIN` (según configuración)
+
+### Características
+- **Juego local (PvP):** 2 jugadores en el mismo dispositivo.
+- **Jugador contra IA:** juegas contra una CPU que comete errores configurables.
+- **Juego por Bluetooth:** 2 dispositivos conectados por Bluetooth (Host/Cliente) para jugar en red.
+-**Guardado y repetición** Permite guardar partidas en formato xml y poder visualizar una repetición de cada tirada.
+
+### Capturas de Pantalla
+| | | | |
+|---|---|---|---|
+| <img src="https://github.com/SoyLeth/Desarrollo_de_aplicaciones_moviles_nativas/blob/master/Juego%20Memorama/images/img1.jpg?raw=true" width="250"/> | <img src="https://github.com/SoyLeth/Desarrollo_de_aplicaciones_moviles_nativas/raw/master/Juego%20Memorama/images/img2.jpg" width="250"/> | <img src="https://github.com/SoyLeth/Desarrollo_de_aplicaciones_moviles_nativas/raw/master/Juego%20Memorama/images/img5.jpg" width="250"/> | <img src="https://github.com/SoyLeth/Desarrollo_de_aplicaciones_moviles_nativas/raw/master/Juego%20Memorama/images/img6.jpg" width="250"/> |
+
+**Repositorio:** https://github.com/SoyLeth/Desarrollo_de_aplicaciones_moviles_nativas.git
+
+---
+## JYP Universe
+**JYP Universe** es una aplicación Android temática basada en **JYP Entertainment** que muestra de forma inmersiva varios grupos de K-POP pertenecientes a la empresa (TWICE, Stray Kids, NMIXX, etc.).
+
+### Requisitos y dependencias
+
+- **Android Studio** Flamingo o superior.
+- **minSdk 24+** (recomendado 28+).
+- **Material Components (Material3)**.
+- **ViewPager2**.
+- Imágenes y videos locales en `res/drawable`, `res/drawable-nodpi` y/o `res/raw`.
+
+### Características
+- **Navegación jerárquica de tres niveles** (HQ/Estudio/Práctica → Carrusel de Grupos → Detalle del Grupo).
+- **UI inmersiva** con gradientes, tarjetas y **bottom sheets** informativos.
+- **Interacciones creativas**: tarjetas que **se voltean** (flip), carrusel horizontal con **ViewPager2**, transiciones de color de fondo y animaciones sutiles.
+- **Persistencia de tema claro/oscuro** con **SharedPreferences**.
+
+### Capturas de Pantalla
+| | | | |
+|---|---|---|---|
+| <img src="https://github.com/SoyLeth/Desarrollo_de_aplicaciones_moviles_nativas/raw/master/Tarea2_Practica2/images/hq1.jpg" width="250"/> | <img src="https://github.com/SoyLeth/Desarrollo_de_aplicaciones_moviles_nativas/raw/master/Tarea2_Practica2/images/grupos1.jpg" width="250"/> | <img src="https://github.com/SoyLeth/Desarrollo_de_aplicaciones_moviles_nativas/raw/master/Tarea2_Practica2/images/twice1.jpg" width="250"/> | <img src="https://github.com/SoyLeth/Desarrollo_de_aplicaciones_moviles_nativas/raw/master/Tarea2_Practica2/images/skz1.jpg" width="250"/> |
+
+**Repositorio:** https://github.com/SoyLeth/Desarrollo_de_aplicaciones_moviles_nativas.git
+
+---
 ## 🌵 Proyecto 28: Aventura interactiva - ¡Aprende sobre el Garambullo!
 
 Aplicación basada en Flutter que presenta una experiencia educativa sobre el garambullo (cactácea nativa mexicana) a través de múltiples pantallas navegables con elementos interactivos y transiciones suaves.
