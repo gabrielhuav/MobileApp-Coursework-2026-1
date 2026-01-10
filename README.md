@@ -599,10 +599,32 @@ Aplicación Android desarrollada en Kotlin, con estética Cyberpunk y diseño ba
 
 https://github.com/archykuroko/AplicacionesMoviles
 
-
-
 ---
 
+## 🌵 Proyecto 28: Aventura interactiva - ¡Aprende sobre el Garambullo!
+
+Aplicación basada en Flutter que presenta una experiencia educativa sobre el garambullo (cactácea nativa mexicana) a través de múltiples pantallas navegables con elementos interactivos y transiciones suaves.
+
+### Tecnologías
+- **Dart** - Lenguaje de programación
+- **SharedPreferences** - Persistencia de tema
+
+### Características
+- 🌱 Pantalla principal: Bienvenida con imagen personalizada
+- 🔄 Navegación por gestos: Deslizamiento horizontal entre pantallas
+- 🎯 Elementos interactivos: Círculos táctiles para navegación avanzada
+- 📱 Indicadores de página: Animación SlideEffect para mejor UX
+- 🖼️ Diseño inmersivo: Imágenes de fondo con overlays graduales
+- 🏗️ Arquitectura modular: Widgets separados y reutilizables
+
+### Capturas de Pantalla
+|Pantalla principal|Ecosistema del garambullo|Tarjeta informativa A|Tarjeta informativa B|
+|---|---|---|---|
+| <img src="https://github.com/AkiseF/AplicacionesMovilesNativas/blob/main/Practica2/practica_2/assets/images/capturas_ejecucion/modo_oscuro/IMG-20251006-WA0021.jpg?raw=true" width="250"/> | <img src="https://github.com/AkiseF/AplicacionesMovilesNativas/blob/main/Practica2/practica_2/assets/images/capturas_ejecucion/modo_oscuro/IMG-20251006-WA0039.jpg?raw=true" width="250"/> | <img src="https://github.com/AkiseF/AplicacionesMovilesNativas/blob/main/Practica2/practica_2/assets/images/capturas_ejecucion/modo_claro/IMG-20251006-WA0030.jpg?raw=true" width="250"/> | <img src="https://github.com/AkiseF/AplicacionesMovilesNativas/blob/main/Practica2/practica_2/assets/images/capturas_ejecucion/modo_claro/IMG-20251006-WA0034.jpg?raw=true" width="250"/> |
+
+**📂 Repositorio:** https://github.com/AkiseF/AplicacionesMovilesNativas/tree/main/Practica2
+
+---
 
 ## 📝 Licencia
 
