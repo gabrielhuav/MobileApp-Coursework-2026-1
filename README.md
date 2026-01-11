@@ -683,6 +683,37 @@ Aplicación basada en Flutter que presenta una experiencia educativa sobre el ga
 **📂 Repositorio:** https://github.com/AkiseF/AplicacionesMovilesNativas/tree/main/Practica2
 
 ---
+# Proyecto 29: Tracklim: Explorador de Circuitos de Carreras 🏎️
+
+**Tracklim** es una aplicación Android nativa diseñada para aficionados del automovilismo. Permite explorar una colección de circuitos icónicos, visualizar sus trazados reales en mapas interactivos y consultar datos históricos de competición.
+
+## 🚀 Funcionalidades Principales
+
+* **Catálogo de Circuitos:** Visualización de una lista curada de las pistas más importantes del mundo.
+* **Mapas Interactivos:** Integración con **Google Maps SDK** para explorar el trazado y la ubicación geográfica exacta de cada circuito.
+* **Historial de Ganadores:** Consulta de los ganadores recientes y datos relevantes de cada Gran Premio.
+* **Interfaz Adaptable:** Soporte para **Modo Claro y Oscuro** (Dark Mode).
+
+## 🛠️ Stack Tecnológico
+
+* **Lenguaje:** Kotlin
+* **Plataforma:** Android (minSdk 24)
+* **APIs Externas:** Google Maps Platform (Maps SDK for Android)
+* **Arquitectura:** Uso de Activities (`MainActivity`, `CircuitDetailActivity`, `WinnersActivity`) para la navegación.
+
+## ⚙️ Configuración del Proyecto
+
+Para ejecutar este proyecto, es necesario configurar una API Key válida de Google Maps.
+
+1.  Crear un archivo `local.properties` en la raíz del proyecto (si no existe).
+2.  Agregar la siguiente línea con tu clave:
+
+```properties
+MAPS_API_KEY=AIzaSy...TU_CLAVE_AQUI
+
+**📂 Repositorio:** https://github.com/DLaVegaA/Practica2_tareas2y3
+
+---
 
 ## 📝 Licencia
 
