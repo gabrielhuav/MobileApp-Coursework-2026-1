@@ -708,7 +708,6 @@ Para ejecutar este proyecto, es necesario configurar una API Key válida de Goog
 1.  Crear un archivo `local.properties` en la raíz del proyecto (si no existe).
 2.  Agregar la siguiente línea con tu clave:
 
-```properties
 MAPS_API_KEY=AIzaSy...TU_CLAVE_AQUI
 
 **📂 Repositorio:** https://github.com/DLaVegaA/Practica2_tareas2y3
