@@ -329,6 +329,12 @@ Aplicación de participación ciudadana con reportes geolocalizados, mapa de cal
 
 ## 🍎 Proyecto 17: NutriScan AI
 
+Creado por:
+
+* Beltrán Vidal Sol Jarelly
+* De la Vega Márquez Anuar
+* Díaz Fuentes Kevin
+
 Identificador inteligente de alimentos con visión artificial que clasifica 62 categorías de frutas, verduras y vegetales usando Deep Learning, funcionando 100% offline.
 
 ### Tecnologías
