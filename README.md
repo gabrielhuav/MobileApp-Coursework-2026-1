@@ -17,14 +17,14 @@ Juego de batalla de motos lightcycle inspirado en Tron Legacy, donde los jugador
 ### Capturas de Pantalla
 | | | |
 |---|---|---|
-| <img src="https://github.com/user-attachments/assets/55153e3e-00cd-4e39-828a-f28eefd3758a" width="250"/> | <img src="https://github.com/user-attachments/assets/8d87b7cc-f56f-4cdb-9a30-af94b9842510" width="250"/> | <img src="https://github.com/user-attachments/assets/eb533c9e-35f5-4cb0-ad47-6c98be981945" width="250"/> |
+| <img loading="lazy" src="https://github.com/user-attachments/assets/55153e3e-00cd-4e39-828a-f28eefd3758a" width="250"/> | <img loading="lazy" src="https://github.com/user-attachments/assets/8d87b7cc-f56f-4cdb-9a30-af94b9842510" width="250"/> | <img loading="lazy" src="https://github.com/user-attachments/assets/eb533c9e-35f5-4cb0-ad47-6c98be981945" width="250"/> |
 | *Menú principal* | *Selección de modo* | *Gameplay vs IA* |
 
 **Repositorio:** https://github.com/said153/Juego_LibGDX.git
 
 ---
 
-## 📷 Práctica 2: Aplicación de Cámara y Micrófono
+## 📷 Proyecto 2: Aplicación de Cámara y Micrófono
 
 Aplicación nativa para Android que permite capturar fotografías y grabar audio utilizando la cámara y el micrófono del dispositivo, con galería multimedia integrada.
 
@@ -36,14 +36,14 @@ Aplicación nativa para Android que permite capturar fotografías y grabar audio
 ### Capturas de Pantalla
 | | | |
 |---|---|---|
-| <img src="https://github.com/user-attachments/assets/aa0ac2de-282a-49cc-b2ad-148a700fc01f" width="250"/> | <img src="https://github.com/user-attachments/assets/3e56d131-7911-4898-8229-5a92921267e3" width="250"/> | <img src="https://github.com/user-attachments/assets/f5a544c8-52e9-427f-9817-b8c01be421c8" width="250"/> |
-| <img src="https://github.com/user-attachments/assets/cdc0a05b-d9a0-4c3d-96b4-f0e8834fea0f" width="250"/> | <img src="https://github.com/user-attachments/assets/98232058-eb90-4bcc-b537-d6a91eff19a6" width="250"/> | <img src="https://github.com/user-attachments/assets/4d283441-8d1c-4c42-ba9c-420082aa669d" width="250"/> |
+| <img loading="lazy" src="https://github.com/user-attachments/assets/aa0ac2de-282a-49cc-b2ad-148a700fc01f" width="250"/> | <img loading="lazy" src="https://github.com/user-attachments/assets/3e56d131-7911-4898-8229-5a92921267e3" width="250"/> | <img loading="lazy" src="https://github.com/user-attachments/assets/f5a544c8-52e9-427f-9817-b8c01be421c8" width="250"/> |
+| <img loading="lazy" src="https://github.com/user-attachments/assets/cdc0a05b-d9a0-4c3d-96b4-f0e8834fea0f" width="250"/> | <img loading="lazy" src="https://github.com/user-attachments/assets/98232058-eb90-4bcc-b537-d6a91eff19a6" width="250"/> | <img loading="lazy" src="https://github.com/user-attachments/assets/4d283441-8d1c-4c42-ba9c-420082aa669d" width="250"/> |
 
 **Repositorio:** https://github.com/said153/Pr-ctica-3-Aplicaciones-nativas.git
 
 ---
 
-## 🎯 Práctica 3: Juego de Tiro al Blanco
+## 🎯 Proyecto 3: Juego de Tiro al Blanco
 
 Juego multijugador local donde dos jugadores compiten disparando canicas hacia una diana, controlando dirección y fuerza mediante touch.
 
@@ -55,13 +55,13 @@ Juego multijugador local donde dos jugadores compiten disparando canicas hacia u
 ### Capturas de Pantalla
 | | | |
 |---|---|---|
-| <img src="https://github.com/user-attachments/assets/93a6597d-c718-4f0c-b072-7773f6b8f8d6" width="250"/> | <img src="https://github.com/user-attachments/assets/e502eb10-9c6d-4fa3-a015-b67bf42dc09c" width="250"/> | <img src="https://github.com/user-attachments/assets/01bfd00e-d43b-4df3-a2a3-139b7d76a51d" width="250"/> |
+| <img loading="lazy" src="https://github.com/user-attachments/assets/93a6597d-c718-4f0c-b072-7773f6b8f8d6" width="250"/> | <img loading="lazy" src="https://github.com/user-attachments/assets/e502eb10-9c6d-4fa3-a015-b67bf42dc09c" width="250"/> | <img loading="lazy" src="https://github.com/user-attachments/assets/01bfd00e-d43b-4df3-a2a3-139b7d76a51d" width="250"/> |
 
 **Repositorio:** https://github.com/JaredFs123456/Multijugador.git
 
 ---
 
-## 💣 Práctica 4: Buscaminas Multijugador
+## 💣 Proyecto 4: Buscaminas Multijugador
 
 Implementación moderna del clásico Buscaminas para dos jugadores, desarrollada con Jetpack Compose y arquitectura MVVM, con soporte para juego local y Bluetooth.
 
@@ -74,14 +74,14 @@ Implementación moderna del clásico Buscaminas para dos jugadores, desarrollada
 ### Capturas de Pantalla
 | | | |
 |---|---|---|
-| <img src="https://github.com/GarciaGarciaAramJesua/Android/blob/main/screenshotsGGAJ/Buscaminas/Buscaminas7.jpeg" width="250"/> | <img src="https://github.com/GarciaGarciaAramJesua/Android/blob/main/screenshotsGGAJ/Buscaminas/Buscaminas1.jpeg" width="250"/> | <img src="https://github.com/GarciaGarciaAramJesua/Android/blob/main/screenshotsGGAJ/Buscaminas/Buscaminas2.jpeg" width="250"/> |
-| <img src="https://github.com/GarciaGarciaAramJesua/Android/blob/main/screenshotsGGAJ/Buscaminas/Buscaminas3.jpeg" width="250"/> | <img src="https://github.com/GarciaGarciaAramJesua/Android/blob/main/screenshotsGGAJ/Buscaminas/Buscaminas5.jpeg" width="250"/> | <img src="https://github.com/GarciaGarciaAramJesua/Android/blob/main/screenshotsGGAJ/Buscaminas/Buscaminas6.jpeg" width="250"/> |
+| <img loading="lazy" src="https://github.com/GarciaGarciaAramJesua/Android/blob/main/screenshotsGGAJ/Buscaminas/Buscaminas7.jpeg" width="250"/> | <img loading="lazy" src="https://github.com/GarciaGarciaAramJesua/Android/blob/main/screenshotsGGAJ/Buscaminas/Buscaminas1.jpeg" width="250"/> | <img loading="lazy" src="https://github.com/GarciaGarciaAramJesua/Android/blob/main/screenshotsGGAJ/Buscaminas/Buscaminas2.jpeg" width="250"/> |
+| <img loading="lazy" src="https://github.com/GarciaGarciaAramJesua/Android/blob/main/screenshotsGGAJ/Buscaminas/Buscaminas3.jpeg" width="250"/> | <img loading="lazy" src="https://github.com/GarciaGarciaAramJesua/Android/blob/main/screenshotsGGAJ/Buscaminas/Buscaminas5.jpeg" width="250"/> | <img loading="lazy" src="https://github.com/GarciaGarciaAramJesua/Android/blob/main/screenshotsGGAJ/Buscaminas/Buscaminas6.jpeg" width="250"/> |
 
 **Repositorio:** https://github.com/PabloGranados/Juego2P
 
 ---
 
-## 😁 Práctica 5: App de Salud Dental
+## 😁 Proyecto 5: App de Salud Dental
 
 Aplicación educativa sobre salud dental con navegación por fragments, persistencia de preferencias y contenido multimedia interactivo.
 
@@ -101,7 +101,7 @@ Aplicación educativa sobre salud dental con navegación por fragments, persiste
 
 ---
 
-## 🦕 Práctica 6: Viaje Prehistórico
+## 🦕 Proyecto 6: Viaje Prehistórico
 
 Aplicación interactiva para explorar eras prehistóricas, períodos geológicos y criaturas antiguas con temática de dinosaurios.
 
@@ -121,7 +121,7 @@ Aplicación interactiva para explorar eras prehistóricas, períodos geológicos
 
 ---
 
-## 🗽 Práctica 7: New York City Explorer
+## 🗽 Proyecto 7: New York City Explorer
 
 Guía turística interactiva de la ciudad de Nueva York con mapa interactivo y pantallas de detalle de los principales puntos de interés.
 
@@ -646,7 +646,7 @@ Aplicación Android del juego Memorama que tiene diferentes modos de juego, con 
 - Imágenes y videos locales en `res/drawable`, `res/drawable-nodpi` y/o `res/raw`.
 
 ### Características
-- **Navegación jerárquica de tres niveles** (HQ/Estudio/Práctica → Carrusel de Grupos → Detalle del Grupo).
+- **Navegación jerárquica de tres niveles** (HQ/Estudio/Proyecto → Carrusel de Grupos → Detalle del Grupo).
 - **UI inmersiva** con gradientes, tarjetas y **bottom sheets** informativos.
 - **Interacciones creativas**: tarjetas que **se voltean** (flip), carrusel horizontal con **ViewPager2**, transiciones de color de fondo y animaciones sutiles.
 - **Persistencia de tema claro/oscuro** con **SharedPreferences**.
@@ -713,21 +713,28 @@ MAPS_API_KEY=AIzaSy...TU_CLAVE_AQUI
 **📂 Repositorio:** https://github.com/DLaVegaA/Practica2_tareas2y3
 
 ---
-# 30 Yu-Gi-Oh-Card-database-app
-App realizada con fines de practica en el desarrollo móvil, usando MVVM, retrofit, corrutinas y Room
+## 🃏 Proyecto 30: Yu-Gi-Oh! Card Database
 
-Yu-Gi-Oh! Card database
-App que permite buscar información del juego de cartas coleccionables. Utilizando una arquitectura MVVM y Single Activity
-![architecture](https://user-images.githubusercontent.com/115143423/202417057-1bd73303-d18e-45f2-a453-4886a4c28d60.png)
+Aplicación de consulta de cartas de Yu-Gi-Oh! desarrollada con enfoque educativo/práctico en Android.
+Utiliza arquitectura MVVM, `Single Activity`, Retrofit para consumo de API, Coroutines y Room para persistencia local.
 
-Al ser Single Activity el ViewModel los fragmentos pueden comunicarse gracias al viewModel
-El viewModel se le injecta por constructor una clase NetworkConnectivity, dicha clase extiende de LiveData<Boolean> la cual contiene un objeto que 
-hereda de la clase NetworkCallback, actualizando el valor con los callbacks onAvilable y onLost, validando la conexión de ese objeto Network estableciendo
-una conexción con https://www.google.com
+### Tecnologías
+- **Kotlin** - Lenguaje principal
+- **MVVM / Single Activity** - Arquitectura
+- **Retrofit** - Cliente HTTP
+- **Coroutines** - Asincronía
+- **Room** - Base de datos local
 
-## Fragmento principal
-Muestra cartas aleatorias, mostrándolas en un recyclerview y actualizando ese listado cada que se hace scroll.
+### Descripción
+La app permite buscar información de cartas coleccionables, mostrar listados y detalles, y mantener caché/local storage con Room. El `ViewModel` se inyecta con una clase `NetworkConnectivity` (extiende `LiveData<Boolean>`) que utiliza `NetworkCallback` para actualizar el estado de conexión.
 
+### Características
+- Búsqueda de cartas (API + filtrado local)
+- Lista paginada / actualización al hacer scroll
+- Detalle de carta con información ampliada
+- Persistencia local con Room
+
+### Capturas de Pantalla
 <table>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/115143423/202418155-bcb8288e-8656-47f1-b4f6-0a1e8a698313.jpg" width="300pt"></td>
@@ -735,18 +742,13 @@ Muestra cartas aleatorias, mostrándolas en un recyclerview y actualizando ese l
   </tr>
 </table>
 
-## Fragmento de detalle
+#### Fragmento de detalle
 <img src="https://user-images.githubusercontent.com/115143423/202420839-5b6591b2-951a-491d-8a96-f3b58bf420a8.jpg" width="300pt">
 
-# Busqueda
-La Appbar es administrada por la actividad, en el fragmento principal, cuenta con un icono, un searchView y un menú.
+### Búsqueda
+La `AppBar` está administrada por la actividad principal; el fragmento principal incluye un `SearchView` que permite buscar tanto en la lista cargada como realizar consultas a la API.
 
-El searchView permite buscar en la lista actual como en el Api.
-
-<img src="https://user-images.githubusercontent.com/115143423/202422636-cb21f88a-3850-4265-847b-cbdbb36ab27b.jpg" width="300pt">
-
-**Link del repositorio:** https://github.com/diegoxze35/Yu-Gi-Oh-Card-database-app
-
+**Repositorio:** https://github.com/diegoxze35/Yu-Gi-Oh-Card-database-app
 ## 📝 Licencia
 
 Proyectos académicos desarrollados para el curso de Desarrollo de Aplicaciones Móviles Nativas 2026-1.
